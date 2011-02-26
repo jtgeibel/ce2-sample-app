@@ -6,20 +6,8 @@ GIT
       activesupport
 
 GIT
-  remote: git://github.com/rack/rack.git
-  revision: e3ffeac0dc04bb8d5994b7923bf12e55d549a279
-  specs:
-    rack (1.2.1)
-
-GIT
-  remote: git://github.com/rails/arel.git
-  revision: 6b021764ff16bbab92f8c27ea8f93f1c8df6bd50
-  specs:
-    arel (2.0.7.beta.20110224095102)
-
-GIT
-  remote: git://github.com/rails/rails.git
-  revision: 54a2bf66019d2694ff53f666765faf5bca927c09
+  remote: git://github.com/bborn/rails.git
+  revision: 1bedee56314ff1de2d186ca56adbe4059f4b0af3
   specs:
     actionmailer (3.1.0.beta)
       actionpack (= 3.1.0.beta)
@@ -62,6 +50,18 @@ GIT
       activesupport (= 3.1.0.beta)
       rake (>= 0.8.7)
       thor (~> 0.14.4)
+
+GIT
+  remote: git://github.com/rack/rack.git
+  revision: e3ffeac0dc04bb8d5994b7923bf12e55d549a279
+  specs:
+    rack (1.2.1)
+
+GIT
+  remote: git://github.com/rails/arel.git
+  revision: 6b021764ff16bbab92f8c27ea8f93f1c8df6bd50
+  specs:
+    arel (2.0.7.beta.20110224095102)
 
 GIT
   remote: http://github.com/paneq/calendar_date_select.git

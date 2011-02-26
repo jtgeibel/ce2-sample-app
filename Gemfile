@@ -3,7 +3,7 @@ source 'http://rubygems.org'
 gem 'community_engine', '1.9.9', :path => '../communityengine'
 
 # Bundle edge Rails
-gem 'rails', :git => 'git://github.com/rails/rails.git'
+gem 'rails', :git => 'git://github.com/bborn/rails.git'
 gem 'arel',  :git => 'git://github.com/rails/arel.git'
 gem "rack", :git => "git://github.com/rack/rack.git"
 
